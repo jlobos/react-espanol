@@ -1,8 +1,8 @@
 ## Recursos para aprender ReactJS en español
 
->Colección de recursos para aprender [ReactJS][1] en español, cursos y video tutoriales desde youtube, ademas de un exelente libro de Javi Jimenez.
+Colección de recursos para aprender [ReactJS][1] en español, cursos y video tutoriales desde youtube, ademas de un exelente libro de Javi Jimenez.
 
->Si tienes algun material no olvides enviar un pull requests, o enviame un tuit [@jlobos27][2].
+Si tienes algun material no olvides enviar un pull requests, o enviame un tuit [@jlobos27][2].
 
 [1]: https://facebook.github.io/react/
 [2]: https://twitter.com/jlobos27
