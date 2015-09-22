@@ -11,7 +11,7 @@ Si tienes algun material no olvides enviar un pull requests, o enviame un tuit [
 
 | :rocket: | autor | año | descargar |
 | -------- | ----- | --- | --------- |
-| Descubre React | Javi Jimenez [@soyjavi][1.2] | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react][1.2] |
+| Descubre React | Javi Jimenez [@soyjavi][1.1] | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react][1.2] |
 
 
 [1.1]: https://twitter.com/soyjavi
