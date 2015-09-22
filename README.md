@@ -33,7 +33,7 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 [v2.1]: null
 [v2.2]: https://www.youtube.com/playlist?list=PLa28R7QEiMblX90sGz23mLhHq5X_JzSmi
 [v3.1]: http://develoteca.com/
-[v3.2]: https://www.youtube.com/playlist?list=PLSuKjujFoGJ2XwyfRvH2nvJ44gvxBEPOd1
+[v3.2]: https://www.youtube.com/playlist?list=PLSuKjujFoGJ2XwyfRvH2nvJ44gvxBEPOd
 [v4.1]: https://www.facebook.com/braintec.la
 [v4.2]: https://www.youtube.com/playlist?list=PLnW2LExoie2XEAFmCxlHhKCG6qj4G_CfB
 [v5.1]: https://twitter.com/elburabure
