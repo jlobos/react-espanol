@@ -45,6 +45,15 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 - [Empezando con ReactJS y ECMAScript 6](https://carlosazaustre.es/blog/empezando-con-react-js-y-ecmascript-6/)
 - [Ejemplo de aplicación con React.js en ECMAScript 6](https://carlosazaustre.es/blog/ejemplo-de-aplicacion-con-react-js-en-ecmascript-6/)
 - [Consumiendo un API REST desde React.js con ECMAScript6](https://carlosazaustre.es/blog/consumiendo-un-api-rest-desde-react-js-con-ecmascript6/)
+- [ReactJS: un enfoque diferente](http://blog.koalite.com/2014/09/reactjs-un-enfoque-diferente/)
+- [Crear un componente con ReactJS](http://blog.koalite.com/2014/09/crear-un-componente-con-reactjs/)
+- [Cómo utilizar ReactJS con Browserify](http://blog.koalite.com/2014/09/como-utilizar-reactjs-con-browserify/)
+- [Reagent, una libería para usar ReactJS desde ClojureScript](http://blog.koalite.com/2014/09/reagent-una-liberia-para-usar-reactjs-desde-clojurescript/)
+- [Rutas en ReactJS con React Router](http://blog.koalite.com/2014/12/rutas-en-reactjs-con-react-router/)
+- [Especificación de tipos en ReactJS con propTypes](http://blog.koalite.com/2015/01/especificacion-de-tipos-en-reactjs-con-proptypes/)
+- [Retrospectiva de un proyecto con ReactJS](http://blog.koalite.com/2015/01/retrospectiva-de-un-proyecto-con-reactjs/)
+- [Un mixin para carga asíncrona de datos en ReactJS](http://blog.koalite.com/2015/07/un-mixin-para-carga-asincrona-de-datos-en-reactjs/)
+- [Carga asíncrona de datos en ReactJS a través de React Router](http://blog.koalite.com/2015/07/carga-asincrona-de-datos-en-reactjs-a-traves-de-react-router/)
 
 
 ### Libros
