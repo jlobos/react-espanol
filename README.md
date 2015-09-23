@@ -54,6 +54,10 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 - [Retrospectiva de un proyecto con ReactJS](http://blog.koalite.com/2015/01/retrospectiva-de-un-proyecto-con-reactjs/)
 - [Un mixin para carga asíncrona de datos en ReactJS](http://blog.koalite.com/2015/07/un-mixin-para-carga-asincrona-de-datos-en-reactjs/)
 - [Carga asíncrona de datos en ReactJS a través de React Router](http://blog.koalite.com/2015/07/carga-asincrona-de-datos-en-reactjs-a-traves-de-react-router/)
+- [ReactJS y el uso de los componentes en la web (Parte 1)](https://elwhileinfinito.wordpress.com/2015/08/05/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-1/)
+- [ReactJS y el uso de los componentes en la web (Parte 2: Hola mundo en ReactJS)](https://elwhileinfinito.wordpress.com/2015/08/09/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-2-hola-mundo-en-reactjs/)
+- [ReactJS y el uso de los componentes en la web (Parte 3: Un cliente de la pantalla de inicio de Reddit)](https://elwhileinfinito.wordpress.com/2015/08/17/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-3-un-cliente-de-la-pantalla-de-inicio-de-reddit/)
+- [ReactJS y el uso de los componentes en la web (Parte 4: Gráfica de barras con D3 y RectJS)](https://elwhileinfinito.wordpress.com/2015/08/30/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-4-grafica-de-barras-con-d3-y-rectjs/)
 
 
 ### Libros
