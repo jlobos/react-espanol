@@ -8,12 +8,14 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 [2]: https://twitter.com/jlobos27
 
 - [React](#react)
-- [React Tutoriales](#react-tutoriales)
+  - [React Tutoriales](#react-tutoriales)
+- [Videos](#videos)
+  - [Video Tutoriales](#video-tutoriales)
+  - [Video Cursos](#video-cursos)
 - [Libros](#libros)
-- [Video Cursos](#video-cursos)
 
 
-### React
+## React
 > Biblioteca JavaScript para la construcción de interfaces de usuario
 
 ### React Tutoriales
@@ -59,17 +61,11 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 - [ReactJS y el uso de los componentes en la web (Parte 3: Un cliente de la pantalla de inicio de Reddit)](https://elwhileinfinito.wordpress.com/2015/08/17/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-3-un-cliente-de-la-pantalla-de-inicio-de-reddit/)
 - [ReactJS y el uso de los componentes en la web (Parte 4: Gráfica de barras con D3 y RectJS)](https://elwhileinfinito.wordpress.com/2015/08/30/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-4-grafica-de-barras-con-d3-y-rectjs/)
 
+## Videos
 
-### Libros
+### Video Tutoriales
 
-| :rocket: | autor | año | descargar |
-| -------- | ----- | --- | --------- |
-| Descubre React | Javi Jimenez [@soyjavi][1.1] | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react][1.2] |
-
-
-[1.1]: https://twitter.com/soyjavi
-[1.2]: https://leanpub.com/descubre-react
-
+- [Flux, Arquitectura de UI by Facebook #programadorIO](https://youtu.be/IRitxt702EY)
 
 ### Video Cursos
 
@@ -93,3 +89,13 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 [v5.2]: https://youtu.be/8zNZbx6ioDk
 [v5.3]: https://youtu.be/nl89wj1NNOU
 [v5.4]: https://youtu.be/JBiAjcLJWew
+
+## Libros
+
+| :rocket: | autor | año | descargar |
+| -------- | ----- | --- | --------- |
+| Descubre React | Javi Jimenez [@soyjavi][1.1] | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react][1.2] |
+
+
+[1.1]: https://twitter.com/soyjavi
+[1.2]: https://leanpub.com/descubre-react
