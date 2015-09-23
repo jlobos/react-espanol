@@ -7,7 +7,32 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 [1]: https://facebook.github.io/react/
 [2]: https://twitter.com/jlobos27
 
-### » Libros
+- [React](#react)
+- [React Tutoriales](#react-tutoriales)
+- [Libros](#libros)
+- [Video Cursos](#video-cursos)
+
+
+### React
+> Biblioteca JavaScript para la construcción de interfaces de usuario
+
+### React Tutoriales
+
+- [Qué es y cómo funciona ReactJS](https://platzi.com/blog/intro-react-js/)
+- [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/)
+- [Desarrollando una aplicación básica con vistas en ReactJS](https://platzi.com/blog/definir-vista-reactjs/)
+- [ReactJS y Firebase, cómo mantener vistas actualizadas en tiempo real](https://platzi.com/blog/reactjs-reactfire/)
+- [Cómo filtrar una lista con ReactJS](https://platzi.com/blog/listas-react-js/)
+- [Cómo usar Web Components con ReactJS y AngularJS](https://platzi.com/blog/reactjs-angularjs-webcomponents/)
+- [Lo nuevo en React v0.14](https://platzi.com/blog/react-v014/)
+- [Manejo de datos en tiempo real con RethinkDB y ReactJS](https://platzi.com/blog/rethinkdb-reactjs/)
+- [Creando una aplicación con React.js y Sails.js](https://platzi.com/blog/reactjs-en-sailsjs/)
+- [Guía paso a paso para crear una Isomorphic app con React, Express y ES6](https://platzi.com/blog/isomorphic-app/)
+- [Creando una Isomorphic app con React, Express y ES6 – Parte 2](https://platzi.com/blog/crear-buscador-reactjs/)
+- [Creando una Isomorphic app con React, Express y ES6 – Parte 3](https://platzi.com/blog/rutas-reactjs/)
+
+
+### Libros
 
 | :rocket: | autor | año | descargar |
 | -------- | ----- | --- | --------- |
@@ -18,7 +43,7 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 [1.2]: https://leanpub.com/descubre-react
 
 
-### » Video Cursos
+### Video Cursos
 
 | :rocket: | autor | año | enlace |
 | -------- | ----- | --- | ------ |
