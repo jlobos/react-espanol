@@ -60,6 +60,7 @@
 
 ### Video Tutoriales
 
+- [ReactJS en #programadorIO](https://youtu.be/ejMEwNVoOT0)
 - [Flux, Arquitectura de UI by Facebook #programadorIO](https://youtu.be/IRitxt702EY)
 
 ### Video Cursos
