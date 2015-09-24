@@ -1,11 +1,6 @@
 ## Recursos para aprender ReactJS en español
 
-Colección de recursos para aprender [ReactJS][1] en español, cursos y video tutoriales desde youtube, ademas de un excelente libro de Javi Jimenez.
-
-Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos27][2].
-
-[1]: https://facebook.github.io/react/
-[2]: https://twitter.com/jlobos27
+> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos27](https://twitter.com/jlobos27).
 
 - [React](#react)
   - [React Tutoriales](#react-tutoriales)
@@ -69,33 +64,17 @@ Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos2
 
 ### Video Cursos
 
-| :rocket: | autor | año | enlace |
-| -------- | ----- | --- | ------ |
-| React.js | Jesús Conde [@0utKast][v1.1] | Actualizado por última vez el 25 may. 2015 | [Lista de Reproducción][v1.2] |
-| Curso: React.js | Platzi | Actualizado por última vez el 19 ago. 2015 | [Lista de Reproducción][v2.2] |
-| React js | Oscar Uh Pérez [Develoteca][v3.1]  | Actualizado por última vez el 1 may. 2015 | [Lista de Reproducción][v3.2] |
-| Desarrollo Ágil con React.js | [BrainTec][v4.1] | Actualizado por última vez el 22 ago. 2015 | [Lista de Reproducción][v4.2] |
-| NodersCL - Curso de ReactJS | [@elburabure][v5.1] | ~ | <ul><li>[ReactJS Clase1][v5.2]</li><li>[ReactJS Clase2][v5.3]</li><li>[ReactJS Clase3][v5.4]</li></ul> |
-
-[v1.1]: https://twitter.com/0utKast
-[v1.2]: https://www.youtube.com/playlist?list=PLEtcGQaT56ci0QiNycpR8mXWeaXcZn5yA
-[v2.1]: null
-[v2.2]: https://www.youtube.com/playlist?list=PLa28R7QEiMblX90sGz23mLhHq5X_JzSmi
-[v3.1]: http://develoteca.com/
-[v3.2]: https://www.youtube.com/playlist?list=PLSuKjujFoGJ2XwyfRvH2nvJ44gvxBEPOd
-[v4.1]: https://www.facebook.com/braintec.la
-[v4.2]: https://www.youtube.com/playlist?list=PLnW2LExoie2XEAFmCxlHhKCG6qj4G_CfB
-[v5.1]: https://twitter.com/elburabure
-[v5.2]: https://youtu.be/8zNZbx6ioDk
-[v5.3]: https://youtu.be/nl89wj1NNOU
-[v5.4]: https://youtu.be/JBiAjcLJWew
+- [Jesus Conde - React.js](https://www.youtube.com/playlist?list=PLEtcGQaT56ci0QiNycpR8mXWeaXcZn5yA)
+- [Platzi - Curso: React.js](https://www.youtube.com/playlist?list=PLa28R7QEiMblX90sGz23mLhHq5X_JzSmi)
+- [Oscar Uh Pérez - React js](https://www.youtube.com/playlist?list=PLSuKjujFoGJ2XwyfRvH2nvJ44gvxBEPOd)
+- [BrainTec - Desarrollo Ágil con React.js](https://www.youtube.com/playlist?list=PLnW2LExoie2XEAFmCxlHhKCG6qj4G_CfB)
+- [@elburabure - NodersCL - Curso de ReactJS Clase1](https://youtu.be/8zNZbx6ioDk)
+- [@elburabure - NodersCL - Curso de ReactJS Clase2](https://youtu.be/nl89wj1NNOU)
+- [@elburabure - NodersCL - Curso de ReactJS Clase3](https://youtu.be/JBiAjcLJWew)
+- [Ricardo Borillo - React](https://www.youtube.com/playlist?list=PLl2j1YxD9uxP8rh33nWGUHY0zZ-xd19Bq)
 
 ## Libros
 
-| :rocket: | autor | año | descargar |
+| :rocket: | autor | año | enlace |
 | -------- | ----- | --- | --------- |
-| Descubre React | Javi Jimenez [@soyjavi][1.1] | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react][1.2] |
-
-
-[1.1]: https://twitter.com/soyjavi
-[1.2]: https://leanpub.com/descubre-react
+| Descubre React | Javi Jimenez [@soyjavi](https://twitter.com/soyjavi) | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react](https://leanpub.com/descubre-react) |
