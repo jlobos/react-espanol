@@ -63,6 +63,7 @@
 - [Introducción a ReactJS](https://youtu.be/J24MhTKWCug)
 - [ReactJS en #programadorIO](https://youtu.be/ejMEwNVoOT0)
 - [Flux, Arquitectura de UI by Facebook #programadorIO](https://youtu.be/IRitxt702EY)
+- [Noderscast – E07 – NodeJS 4.0, React y el Fin Del Mundo](https://youtu.be/6XztEM_rYHs)
 
 ### Video Cursos
 
