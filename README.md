@@ -61,6 +61,7 @@
 - [Configurando un entorno en Webpack para trabajar con React](https://thecraftsmansjourney.wordpress.com/2015/06/18/configurando-un-entorno-en-webpack-para-trabajar-con-react/)
 - [ReactJS agnóstico: El DOM como un detalle de implementación](https://thecraftsmansjourney.wordpress.com/2015/07/06/reactjs-agnostico-el-dom-como-un-detalle-de-implementacion/)
 - [Test unitarios de componentes en ReactJS prescindiendo del DOM con Shallow Rendering](https://thecraftsmansjourney.wordpress.com/2015/07/06/test-unitarios-de-componentes-en-reactjs-prescindiendo-del-dom-con-shallow-rendering/)
+- [Buscar con React JS, PHP, MySQL y Bootstrap](http://blog.collectivecloudperu.com/buscar-con-react-js-php-mysql-y-bootstrap/)
 
 ## Videos
 
