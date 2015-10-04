@@ -63,6 +63,8 @@
 - [Test unitarios de componentes en ReactJS prescindiendo del DOM con Shallow Rendering](https://thecraftsmansjourney.wordpress.com/2015/07/06/test-unitarios-de-componentes-en-reactjs-prescindiendo-del-dom-con-shallow-rendering/)
 - [Buscar con React JS, PHP, MySQL y Bootstrap](http://blog.collectivecloudperu.com/buscar-con-react-js-php-mysql-y-bootstrap/)
 - [La Arquitectura Flux](http://costaricajs.co/2015/03/La-Arquitectura-Flux/)
+- [Introducción a React](http://code.ezakto.com/react/introduccion-a-react.html)
+- [Administrador de notas con React](http://code.ezakto.com/react/crear-administrador-de-notas-con-react.html)
 
 ## Videos
 
