@@ -68,6 +68,7 @@
 - [Ejemplo lista de tareas con Backbone y React](http://picodotdev.github.io/blog-bitix/2014/04/ejemplo-lista-de-tareas-con-backbone-y-react/)
 - [Similitudes entre React y Polymer con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2015/10/similitudes-entre-react-y-polymer-con-apache-tapestry/)
 - [Testing de componentes de React con Jest](https://platzi.com/blog/react-jest-componentes/)
+- [React Native: nativizando el desarrollo híbrido de apps](http://sitelabs.es/react-native-nativizando-el-desarrollo-hibrido-de-apps/)
 
 ## Videos
 
