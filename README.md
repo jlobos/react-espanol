@@ -69,6 +69,7 @@
 - [Similitudes entre React y Polymer con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2015/10/similitudes-entre-react-y-polymer-con-apache-tapestry/)
 - [Testing de componentes de React con Jest](https://platzi.com/blog/react-jest-componentes/)
 - [React Native: nativizando el desarrollo híbrido de apps](http://sitelabs.es/react-native-nativizando-el-desarrollo-hibrido-de-apps/)
+- [Redux tutorial (Flux library)](https://medium.com/@pedroparra/redux-tutorial-bb8e87eebb09#.xbeu6yi86)
 
 ## Videos
 
