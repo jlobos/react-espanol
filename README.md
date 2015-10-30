@@ -82,6 +82,7 @@
 - [Introducción a ReactJs #DevHangout con @carloscuatin](https://youtu.be/J7m0VZFDyYs)
 - [Chema Balsas - React en la vida real: AlloyEditor](https://youtu.be/azBfSIODMNk)
 - [Chema Balsas (@jbalsas) nos habla sobre React y AllowEditor](https://youtu.be/iyN0S9BV6Ok)
+- [STREAM: react + json api + nodejs + es6 ! español](https://www.livecoding.tv/video/react-json-api-nodejs-es6-espanol-2/)
 
 ### Video Cursos
 
