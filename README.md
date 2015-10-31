@@ -83,6 +83,9 @@
 - [Chema Balsas - React en la vida real: AlloyEditor](https://youtu.be/azBfSIODMNk)
 - [Chema Balsas (@jbalsas) nos habla sobre React y AllowEditor](https://youtu.be/iyN0S9BV6Ok)
 - [STREAM: react + json api + nodejs + es6 ! español](https://www.livecoding.tv/video/react-json-api-nodejs-es6-espanol-2/)
+- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol/)
+- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol-2/)
+- [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol-3/)
 
 ### Video Cursos
 
