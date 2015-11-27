@@ -71,6 +71,7 @@
 - [React Native: nativizando el desarrollo híbrido de apps](http://sitelabs.es/react-native-nativizando-el-desarrollo-hibrido-de-apps/)
 - [Redux tutorial (Flux library)](https://medium.com/@pedroparra/redux-tutorial-bb8e87eebb09#.xbeu6yi86)
 - [AngularJS vs BackboneJS, Jquery, ReactJS y otros](https://devcode.la/tutoriales/angularjs-vs-backbonejs-jquery-reactjs/)
+- [ReactJS: El ciclo de vida de un componente (I)](https://elabismodenull.wordpress.com/2015/11/25/reactjs-el-ciclo-de-vida-de-un-componente-i/)
 
 ## Videos
 
