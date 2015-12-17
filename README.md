@@ -74,6 +74,7 @@
 - [ReactJS: El ciclo de vida de un componente (I)](https://elabismodenull.wordpress.com/2015/11/25/reactjs-el-ciclo-de-vida-de-un-componente-i/)
 - [ReactJS: El ciclo de vida de un componente (II)](https://elabismodenull.wordpress.com/2015/12/16/reactjs-el-ciclo-de-vida-de-un-componente-ii/)
 - [Taller de React, ES6 y webpack en el Codemotion 2015](http://programmeratwork.com/blog/2015/11/26/taller-de-react-es6-y-webpack-en-el-codemotion-2015/)
+- [Internacionalización de aplicaciones en ReactJS: Rosetta](https://carlosvillu.com/internacionaliza-tu-aplicacion-isomorfica-hecha-en-reactjs-rosetta/)
 
 ## Videos
 
