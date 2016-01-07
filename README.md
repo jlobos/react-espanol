@@ -105,6 +105,7 @@
 - [@elburabure - NodersCL - Curso de ReactJS Clase2](https://youtu.be/nl89wj1NNOU)
 - [@elburabure - NodersCL - Curso de ReactJS Clase3](https://youtu.be/JBiAjcLJWew)
 - [Ricardo Borillo - React](https://www.youtube.com/playlist?list=PLl2j1YxD9uxP8rh33nWGUHY0zZ-xd19Bq)
+- [Risky Programmer - React.JS](https://www.youtube.com/playlist?list=PLQ7rrCblsgaNI73ge-63QQdd0Bln7ZJlq)
 
 ## Libros
 
