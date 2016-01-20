@@ -57,7 +57,7 @@
 - [ReactJS y el uso de los componentes en la web (Parte 4: Gráfica de barras con D3 y RectJS)](https://elwhileinfinito.wordpress.com/2015/08/30/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-4-grafica-de-barras-con-d3-y-rectjs/)
 - [Internacionalización con React.js y FormatJS](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098)
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6)
-- [COMO RECONOCER UN CLICK FUERA DE UN ELEMENTO EN REACTJS](http://www.loslocostambientienenblog.com/como-reconocer-un-click-fuera-de-un-elemento-en-react-es6/)
+- [Como reconocer un click fuera de un elemento en ReactJS](http://www.loslocostambientienenblog.com/como-reconocer-un-click-fuera-de-un-elemento-en-react-es6/)
 - [Configurando un entorno en Webpack para trabajar con React](https://thecraftsmansjourney.wordpress.com/2015/06/18/configurando-un-entorno-en-webpack-para-trabajar-con-react/)
 - [ReactJS agnóstico: El DOM como un detalle de implementación](https://thecraftsmansjourney.wordpress.com/2015/07/06/reactjs-agnostico-el-dom-como-un-detalle-de-implementacion/)
 - [Test unitarios de componentes en ReactJS prescindiendo del DOM con Shallow Rendering](https://thecraftsmansjourney.wordpress.com/2015/07/06/test-unitarios-de-componentes-en-reactjs-prescindiendo-del-dom-con-shallow-rendering/)
