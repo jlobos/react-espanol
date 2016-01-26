@@ -77,6 +77,7 @@
 - [Taller de React, ES6 y webpack en el Codemotion 2015](http://programmeratwork.com/blog/2015/11/26/taller-de-react-es6-y-webpack-en-el-codemotion-2015/)
 - [Internacionalización de aplicaciones en ReactJS: Rosetta](https://carlosvillu.com/internacionaliza-tu-aplicacion-isomorfica-hecha-en-reactjs-rosetta/)
 - [ReactJS: Primeros Pasos](http://blog.danjavia.xyz/reactjs-primeros-pasos/)
+- [Comparación React JS vs Angular 2](http://www.enrique7mc.com/2016/01/comparacion-react-js-vs-angular-2/)
 
 ## Videos
 
