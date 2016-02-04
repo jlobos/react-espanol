@@ -78,6 +78,8 @@
 - [Internacionalización de aplicaciones en ReactJS: Rosetta](https://carlosvillu.com/internacionaliza-tu-aplicacion-isomorfica-hecha-en-reactjs-rosetta/)
 - [ReactJS: Primeros Pasos](http://blog.danjavia.xyz/reactjs-primeros-pasos/)
 - [Comparación React JS vs Angular 2](http://www.enrique7mc.com/2016/01/comparacion-react-js-vs-angular-2/)
+- [Por qué es importante Flux y por qué (probablemente) no debes usarlo](http://blog.koalite.com/2016/02/por-que-es-importante-flux-y-por-que-probablemente-no-debes-usarlo/)
+- [Introducción a ReactJS](https://medium.com/@odeabreu/introducci%C3%B3n-a-reactjs-9c9ed9c71437#.2ifg64xhs)
 
 ## Videos
 
