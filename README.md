@@ -81,6 +81,7 @@
 - [Por qué es importante Flux y por qué (probablemente) no debes usarlo](http://blog.koalite.com/2016/02/por-que-es-importante-flux-y-por-que-probablemente-no-debes-usarlo/)
 - [Introducción a ReactJS](https://medium.com/@odeabreu/introducci%C3%B3n-a-reactjs-9c9ed9c71437#.2ifg64xhs)
 - [ReactJS: Instalar todo lo necesario para empezar](http://vensign.com/reactjs-instalar-todo-lo-necesario-para-empezar/)
+- [React JS en español - Tutorial Básico y Primeros pasos](http://frontendlabs.io/3158--react-js-espanol-tutorial-basico-primeros-pasos-ejemplos)
 
 ## Videos
 
