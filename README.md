@@ -82,6 +82,7 @@
 - [Introducción a ReactJS](https://medium.com/@odeabreu/introducci%C3%B3n-a-reactjs-9c9ed9c71437#.2ifg64xhs)
 - [ReactJS: Instalar todo lo necesario para empezar](http://vensign.com/reactjs-instalar-todo-lo-necesario-para-empezar/)
 - [React JS en español - Tutorial Básico y Primeros pasos](http://frontendlabs.io/3158--react-js-espanol-tutorial-basico-primeros-pasos-ejemplos)
+- [Soporte del bot de Google en páginas SPA: un estudio científico](https://carlosvillu.com/soporte-del-bot-de-google-en-paginas-spa-un-estudio-cientifico/)
 
 ## Videos
 
