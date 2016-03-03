@@ -86,6 +86,7 @@
 - [Soporte del bot de Google en páginas SPA: un estudio científico](https://carlosvillu.com/soporte-del-bot-de-google-en-paginas-spa-un-estudio-cientifico/)
 - [react howto](https://github.com/petehunt/react-howto/blob/master/README-es.md)
 - [#4SESSIONS [20FEB] REACTJS + REACT NATIVE = REACT DEVELOPER](http://www.techdencias.net/blog/2016/03/02/4sessions-20feb-reactjs-react-native-react-developer/)
+- [¿AngularJS vs ReactJS? Cómo confundir la velocidad con el tocino](https://elabismodenull.wordpress.com/2016/02/28/angularjs-vs-reactjs-como-confundir-la-velocidad-y-el-tocino/)
 
 ## Videos
 
