@@ -55,6 +55,7 @@
 - [ReactJS y el uso de los componentes en la web (Parte 2: Hola mundo en ReactJS)](https://elwhileinfinito.wordpress.com/2015/08/09/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-2-hola-mundo-en-reactjs/)
 - [ReactJS y el uso de los componentes en la web (Parte 3: Un cliente de la pantalla de inicio de Reddit)](https://elwhileinfinito.wordpress.com/2015/08/17/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-3-un-cliente-de-la-pantalla-de-inicio-de-reddit/)
 - [ReactJS y el uso de los componentes en la web (Parte 4: Gráfica de barras con D3 y RectJS)](https://elwhileinfinito.wordpress.com/2015/08/30/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-4-grafica-de-barras-con-d3-y-rectjs/)
+- [ReactJS y el uso de los componentes en la web (Parte 5: Configurando nuestro entorno con webpack y ES6)](http://www.whileinfinito.com/2016/02/29/reactjs-y-el-uso-de-los-componentes-en-la-web-parte-5-configurando-nuestro-entorno-con-webpack-y-es6/)
 - [Internacionalización con React.js y FormatJS](https://medium.com/@sergiodxa/internacionalizaci%C3%B3n-con-react-js-y-formatjs-389957dbc098)
 - [Renderizando React.js en el server con Express.js y react-engine](https://medium.com/@sergiodxa/renderizando-react-js-en-el-server-con-express-js-y-react-engine-903de08c3df6)
 - [Como reconocer un click fuera de un elemento en ReactJS](http://www.loslocostambientienenblog.com/como-reconocer-un-click-fuera-de-un-elemento-en-react-es6/)
