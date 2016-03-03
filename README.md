@@ -1,6 +1,6 @@
 ## Recursos para aprender ReactJS en español
 
-> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobos27](https://twitter.com/jlobos27).
+> Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobitu](https://twitter.com/jlobitu).
 
 - [React](#react)
   - [React Tutoriales](#react-tutoriales)
@@ -85,6 +85,7 @@
 - [React JS en español - Tutorial Básico y Primeros pasos](http://frontendlabs.io/3158--react-js-espanol-tutorial-basico-primeros-pasos-ejemplos)
 - [Soporte del bot de Google en páginas SPA: un estudio científico](https://carlosvillu.com/soporte-del-bot-de-google-en-paginas-spa-un-estudio-cientifico/)
 - [react howto](https://github.com/petehunt/react-howto/blob/master/README-es.md)
+- [#4SESSIONS [20FEB] REACTJS + REACT NATIVE = REACT DEVELOPER](http://www.techdencias.net/blog/2016/03/02/4sessions-20feb-reactjs-react-native-react-developer/)
 
 ## Videos
 
