@@ -88,6 +88,10 @@
 - [react howto](https://github.com/petehunt/react-howto/blob/master/README-es.md)
 - [#4SESSIONS [20FEB] REACTJS + REACT NATIVE = REACT DEVELOPER](http://www.techdencias.net/blog/2016/03/02/4sessions-20feb-reactjs-react-native-react-developer/)
 - [¿AngularJS vs ReactJS? Cómo confundir la velocidad con el tocino](https://elabismodenull.wordpress.com/2016/02/28/angularjs-vs-reactjs-como-confundir-la-velocidad-y-el-tocino/)
+- [Combinando React.js y Redux.js](https://medium.com/@sergiodxa/combinando-react-js-y-redux-js-7b45a9dc39ac#.cjfjgdk2e)
+_ [Propiedades y estado de los componentes React](http://blog.builtbyedgar.com/propiedades-estado-componentes-react/)
+- [Ciclo de vida de los componentes React](http://blog.builtbyedgar.com/ciclo-de-vida-de-los-componentes-react/)
+- [Configurar un entorno de desarrollo para React y ES6 con Webpack](http://blog.builtbyedgar.com/configurar-un-entorno-de-desarrollo-para-react-y-es6-con-webpack/)
 
 ## Videos
 
