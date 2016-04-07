@@ -92,6 +92,9 @@
 - [Propiedades y estado de los componentes React](http://blog.builtbyedgar.com/propiedades-estado-componentes-react/)
 - [Ciclo de vida de los componentes React](http://blog.builtbyedgar.com/ciclo-de-vida-de-los-componentes-react/)
 - [Configurar un entorno de desarrollo para React y ES6 con Webpack](http://blog.builtbyedgar.com/configurar-un-entorno-de-desarrollo-para-react-y-es6-con-webpack/)
+- [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/ruteo-en-aplicaciones-de-redux-y-react-js-d62de452bf1b#.2oq1qjtoq)
+- [Serie de pasos concretos e indicaciones para empezar a usar Reactjs sin fatiga](https://github.com/victorkane/meetup-2016-04-05)
+- [Tu entorno de desarrollo de ReactJS en 5 minutos con hjs-webpack](https://carlosvillu.com/tu-entorno-de-desarrollo-de-reactjs-en-5-minutos-con-hjs-webpack/)
 
 ## Videos
 
