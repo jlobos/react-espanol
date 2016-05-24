@@ -3,6 +3,7 @@
 > Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobitu](https://twitter.com/jlobitu).
 
 - [React](#react)
+  - [Documentacion de React.js en español 📚](https://github.com/reactjs-hispano/react-es-docs) 
   - [React Tutoriales](#react-tutoriales)
 - [Videos](#videos)
   - [Video Tutoriales](#video-tutoriales)
@@ -95,6 +96,11 @@
 - [Ruteo en aplicaciones de Redux y React.js](https://medium.com/react-redux/ruteo-en-aplicaciones-de-redux-y-react-js-d62de452bf1b#.2oq1qjtoq)
 - [Serie de pasos concretos e indicaciones para empezar a usar Reactjs sin fatiga](https://github.com/victorkane/meetup-2016-04-05)
 - [Tu entorno de desarrollo de ReactJS en 5 minutos con hjs-webpack](https://carlosvillu.com/tu-entorno-de-desarrollo-de-reactjs-en-5-minutos-con-hjs-webpack/)
+- [Uso de Angular y React con BPM](http://blog.neteris.com/stepforward/uso-de-angular-y-react-con-bpm?utm_campaign=BPM&utm_content=29045194&utm_medium=social&utm_source=twitter)
+- [Primera aplicación con React](https://uno-de-piera.com/primera-aplicacion-con-react/)
+- [Crea tu blog con ReactJS, GitHub y Surge](https://platzi.com/blog/blog-reactjs-github/)
+- [Aprende a crear un nuevo proyecto con React Native](https://platzi.com/blog/react-native/)
+- [Lo que tienes que saber sobre React 15](https://platzi.com/blog/react-15/)
 
 ## Videos
 
@@ -113,6 +119,8 @@
 - [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol-2/)
 - [STREAM: react + webpack + es6 ! español](https://www.livecoding.tv/video/react-webpack-es6-espanol-3/)
 - [Introducción a React.js](https://youtu.be/i5MEOIkfuyI)
+- [Algo más de ReactJs | Scio Talks PV2016](https://youtu.be/8Qua6aXb-XU)
+- [Consumir un API REST con React y Redux](https://youtu.be/nf_3AsfPODs)
 
 ### Video Cursos
 
@@ -125,6 +133,8 @@
 - [@elburabure - NodersCL - Curso de ReactJS Clase3](https://youtu.be/JBiAjcLJWew)
 - [Ricardo Borillo - React](https://www.youtube.com/playlist?list=PLl2j1YxD9uxP8rh33nWGUHY0zZ-xd19Bq)
 - [Risky Programmer - React.JS](https://www.youtube.com/playlist?list=PLQ7rrCblsgaNI73ge-63QQdd0Bln7ZJlq)
+- [Curso gratis de React](https://codigofacilito.com/courses/curso-gratis-de-react)
+- [React Native](https://www.youtube.com/playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe)
 
 ## Libros
 
