@@ -121,6 +121,7 @@
 - [Introducción a React.js](https://youtu.be/i5MEOIkfuyI)
 - [Algo más de ReactJs | Scio Talks PV2016](https://youtu.be/8Qua6aXb-XU)
 - [Consumir un API REST con React y Redux](https://youtu.be/nf_3AsfPODs)
+- [React: Rethinking Best Practices (es)](https://youtu.be/wDyNb1Xvtzg)
 
 ### Video Cursos
 
