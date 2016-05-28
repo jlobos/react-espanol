@@ -122,6 +122,7 @@
 - [Algo más de ReactJs | Scio Talks PV2016](https://youtu.be/8Qua6aXb-XU)
 - [Consumir un API REST con React y Redux](https://youtu.be/nf_3AsfPODs)
 - [React: Rethinking Best Practices (es)](https://youtu.be/wDyNb1Xvtzg)
+- [Scaffolding de aplicaciones complejas con React - JSDayES 2016](https://youtu.be/tfJ5CuxOhO8)
 
 ### Video Cursos
 
