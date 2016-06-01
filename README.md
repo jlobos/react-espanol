@@ -71,7 +71,7 @@
 - [Similitudes entre React y Polymer con Apache Tapestry](http://picodotdev.github.io/blog-bitix/2015/10/similitudes-entre-react-y-polymer-con-apache-tapestry/)
 - [Testing de componentes de React con Jest](https://platzi.com/blog/react-jest-componentes/)
 - [React Native: nativizando el desarrollo híbrido de apps](http://sitelabs.es/react-native-nativizando-el-desarrollo-hibrido-de-apps/)
-- [Redux tutorial - Parte 1 (Flux library - Introducción)](https://medium.com/@pedroparra/redux-tutorial-bb8e87eebb09#.xbeu6yi86)
+- [Redux tutorial - Parte 1 (Flux library - Introducción)](https://medium.com/@pedroparra/redux-tutorial-bb8e87eebb09#.xbeu6yi86)
 - [Redux tutorial - Parte 2 (Flux library - Conceptos necesarios)](https://medium.com/@pedroparra/redux-tutorial-7d65c466d369#.884atyr54)
 - [Redux tutorial - Parte 3 (Flux library - Store)](https://medium.com/@pedroparra/redux-tutorial-parte-3-611e5620b0ac#.b5gaf6lpk)
 - [AngularJS vs BackboneJS, Jquery, ReactJS y otros](https://devcode.la/tutoriales/angularjs-vs-backbonejs-jquery-reactjs/)
@@ -101,6 +101,7 @@
 - [Crea tu blog con ReactJS, GitHub y Surge](https://platzi.com/blog/blog-reactjs-github/)
 - [Aprende a crear un nuevo proyecto con React Native](https://platzi.com/blog/react-native/)
 - [Lo que tienes que saber sobre React 15](https://platzi.com/blog/react-15/)
+- [Hola mundo en React JS](http://www.enrique7mc.com/2016/04/hola-mundo-en-react-js/)
 
 ## Videos
 
