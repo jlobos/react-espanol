@@ -102,6 +102,8 @@
 - [Aprende a crear un nuevo proyecto con React Native](https://platzi.com/blog/react-native/)
 - [Lo que tienes que saber sobre React 15](https://platzi.com/blog/react-15/)
 - [Hola mundo en React JS](http://www.enrique7mc.com/2016/04/hola-mundo-en-react-js/)
+- [REACTJS Y ¿SUS VÍCTIMAS?](https://itblogsogeti.com/2016/05/31/reactjs-y-sus-victimas/)
+- [¿Qué es y cómo funciona React.js?](https://www.nextuniversity.com/blog/que-es-y-como-funciona-react-js/)
 
 ## Videos
 
@@ -124,6 +126,7 @@
 - [Consumir un API REST con React y Redux](https://youtu.be/nf_3AsfPODs)
 - [React: Rethinking Best Practices (es)](https://youtu.be/wDyNb1Xvtzg)
 - [Scaffolding de aplicaciones complejas con React - JSDayES 2016](https://youtu.be/tfJ5CuxOhO8)
+- [SailsJS + ReactJS como motor de plantilla](https://youtu.be/SaGNKRKvB-c)
 
 ### Video Cursos
 
