@@ -105,6 +105,7 @@
 - [Hola mundo en React JS](http://www.enrique7mc.com/2016/04/hola-mundo-en-react-js/)
 - [Componentes de Alto Orden en React.js](https://medium.com/react-redux/react-componentes-alto-orden-2498211e933f#.hwkyogj71)
 - [¡Hola mundo!, configura un entorno de desarrollo para React.js](https://programarivm.com/2016/06/hola-mundo-configura-un-entorno-de-desarrollo-para-react-js/)
+- [Una radiografía al componente de React en ES6](http://blog.nursoft.cl/una-mirada-rapida-al-componente-de-react/)
 
 ### React Native
 
