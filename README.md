@@ -160,6 +160,7 @@
 - [React: Rethinking Best Practices (es)](https://youtu.be/wDyNb1Xvtzg)
 - [Scaffolding de aplicaciones complejas con React - JSDayES 2016](https://youtu.be/tfJ5CuxOhO8)
 - [SailsJS + ReactJS como motor de plantilla](https://youtu.be/SaGNKRKvB-c)
+- [Conociendo React](https://youtu.be/5UrsspX1-zk)
 
 ### Video Cursos
 
@@ -172,8 +173,9 @@
 - [@elburabure - NodersCL - Curso de ReactJS Clase3](https://youtu.be/JBiAjcLJWew)
 - [Ricardo Borillo - React](https://www.youtube.com/playlist?list=PLl2j1YxD9uxP8rh33nWGUHY0zZ-xd19Bq)
 - [Risky Programmer - React.JS](https://www.youtube.com/playlist?list=PLQ7rrCblsgaNI73ge-63QQdd0Bln7ZJlq)
-- [Curso gratis de React](https://codigofacilito.com/courses/curso-gratis-de-react)
-- [React Native](https://www.youtube.com/playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe)
+- [Código Facilito - Curso gratis de React](https://codigofacilito.com/courses/curso-gratis-de-react)
+- [Iván BTrujillo - React Native](https://www.youtube.com/playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe)
+- [Uno de piera - Curse de ReactJS](https://www.youtube.com/playlist?list=PLe3ZqgP6POZ7TE9Cv1gT3gZz1KEJ0yM0t)
 
 ## Libros
 
