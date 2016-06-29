@@ -106,6 +106,7 @@
 - [Componentes de Alto Orden en React.js](https://medium.com/react-redux/react-componentes-alto-orden-2498211e933f#.hwkyogj71)
 - [¡Hola mundo!, configura un entorno de desarrollo para React.js](https://programarivm.com/2016/06/hola-mundo-configura-un-entorno-de-desarrollo-para-react-js/)
 - [Una radiografía al componente de React en ES6](http://blog.nursoft.cl/una-mirada-rapida-al-componente-de-react/)
+- [part#2 — Meteorjs+Reactjs](https://medium.com/@diegoachury/meteorjs-instalando-reactjs-c46e711975b#.m0u82321g)
 
 ### React Native
 
