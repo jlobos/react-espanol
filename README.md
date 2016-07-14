@@ -38,6 +38,7 @@
 - [Introducción a ReactJS](https://medium.com/@odeabreu/introducci%C3%B3n-a-reactjs-9c9ed9c71437#.2ifg64xhs)
 - [Comparación React JS vs Angular 2](http://www.enrique7mc.com/2016/01/comparacion-react-js-vs-angular-2/)
 - [¿AngularJS vs ReactJS? Cómo confundir la velocidad con el tocino](https://elabismodenull.wordpress.com/2016/02/28/angularjs-vs-reactjs-como-confundir-la-velocidad-y-el-tocino/)
+- [Introducción a ReactJS](http://vensign.com/introduccion-a-reactjs/)
 
 ### React Tutoriales
 
@@ -107,6 +108,9 @@
 - [¡Hola mundo!, configura un entorno de desarrollo para React.js](https://programarivm.com/2016/06/hola-mundo-configura-un-entorno-de-desarrollo-para-react-js/)
 - [Una radiografía al componente de React en ES6](http://blog.nursoft.cl/una-mirada-rapida-al-componente-de-react/)
 - [part#2 — Meteorjs+Reactjs](https://medium.com/@diegoachury/meteorjs-instalando-reactjs-c46e711975b#.m0u82321g)
+- [Tipos de componentes en React JS](http://www.enrique7mc.com/2016/07/tipos-de-componentes-en-react-js/)
+- [ReactJS: creando componentes dinámicos](https://medium.com/@erik_uscanga/reactjs-creando-componentes-din%C3%A1micos-1fa76d12e873#.ri2wyg8nn)
+- [Componentes de Orden Superior (Higher Order Components) en ReactJS](http://blog.koalite.com/2016/07/componentes-de-orden-superior-higher-order-components-en-reactjs/)
 
 ### React Native
 
@@ -162,6 +166,7 @@
 - [Scaffolding de aplicaciones complejas con React - JSDayES 2016](https://youtu.be/tfJ5CuxOhO8)
 - [SailsJS + ReactJS como motor de plantilla](https://youtu.be/SaGNKRKvB-c)
 - [Conociendo React](https://youtu.be/5UrsspX1-zk)
+- [ReactJS @ MuleSoft - 29 de junio de 2016](https://youtu.be/-owNNdI6XqQ)
 
 ### Video Cursos
 
