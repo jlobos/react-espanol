@@ -111,6 +111,10 @@
 - [Tipos de componentes en React JS](http://www.enrique7mc.com/2016/07/tipos-de-componentes-en-react-js/)
 - [ReactJS: creando componentes dinámicos](https://medium.com/@erik_uscanga/reactjs-creando-componentes-din%C3%A1micos-1fa76d12e873#.ri2wyg8nn)
 - [Componentes de Orden Superior (Higher Order Components) en ReactJS](http://blog.koalite.com/2016/07/componentes-de-orden-superior-higher-order-components-en-reactjs/)
+- [Crea aplicaciones React sin configurar nada](https://platzi.com/blog/crea-react-app-configurar-nada)
+- [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django)
+- [Comenzar con React](https://martinpeveri.wordpress.com/2016/08/15/comenzar-con-react)
+- [Patrones de Reutilizacin de Código entre Componentes de ReactJS](http://blog.koalite.com/2016/07/patrones-de-reutilizacion-de-codigo-entre-componentes-de-reactjs/)
 
 ### React Native
 
@@ -167,6 +171,8 @@
 - [SailsJS + ReactJS como motor de plantilla](https://youtu.be/SaGNKRKvB-c)
 - [Conociendo React](https://youtu.be/5UrsspX1-zk)
 - [ReactJS @ MuleSoft - 29 de junio de 2016](https://youtu.be/-owNNdI6XqQ)
+- [Aprende a desarrollar aplicaciones en tiempo real con Crystal y React](https://youtu.be/KAre3vRCU3U)
+- [El camino para dominar Reactjs](https://youtu.be/Kqd79dJ1gVI)
 
 ### Video Cursos
 
