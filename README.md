@@ -44,7 +44,6 @@
 
 - [React, primera entrega.](http://codexsw.logdown.com/posts/297599-react)
 - [Comenzando con React](http://abalozz.es/comenzando-con-react/)
-- [Poor Man's Flux](http://codexsw.logdown.com/posts/300333-poor-mans-flux)
 - [Introducción práctica a ReactJS](http://carlosvillu.com/introduccion-a-reactjs/)
 - [Los 3 mejores starter-kits de ReactJS](http://carlosvillu.com/los-3-mejores-starter-kits-de-reactjs/)
 - [Quiero hacer un proyecto en ReactJS. ¡¿Y ahora qué?!](http://carlosvillu.com/quiero-hacer-un-proyecto-en-reactjs-y-ahora-que/)
@@ -124,6 +123,7 @@
 
 ### Flux
 
+- [Poor Man's Flux](http://codexsw.logdown.com/posts/300333-poor-mans-flux)
 - [La Arquitectura Flux](http://costaricajs.co/2015/03/La-Arquitectura-Flux/)
 - [Por qué es importante Flux y por qué (probablemente) no debes usarlo](http://blog.koalite.com/2016/02/por-que-es-importante-flux-y-por-que-probablemente-no-debes-usarlo/)
 
