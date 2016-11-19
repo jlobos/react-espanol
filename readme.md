@@ -38,6 +38,7 @@
 - [Comparación React JS vs Angular 2](http://www.enrique7mc.com/2016/01/comparacion-react-js-vs-angular-2/)
 - [¿AngularJS vs ReactJS? Cómo confundir la velocidad con el tocino](https://elabismodenull.wordpress.com/2016/02/28/angularjs-vs-reactjs-como-confundir-la-velocidad-y-el-tocino/)
 - [Introducción a ReactJS](http://vensign.com/introduccion-a-reactjs/)
+- [Interfaces gráficas con ReactJS](https://blog.5rabbits.com/interfaces-gr%C3%A1ficas-con-reactjs-2c43481a1c8d#.c7qjsimsv)
 
 ### React Tutoriales
 
@@ -108,6 +109,8 @@
 - [Usando React.js en el servidor con Django](https://platzi.com/blog/react-js-en-servidor-con-django)
 - [Comenzar con React](https://martinpeveri.wordpress.com/2016/08/15/comenzar-con-react)
 - [Patrones de Reutilizacin de Código entre Componentes de ReactJS](http://blog.koalite.com/2016/07/patrones-de-reutilizacion-de-codigo-entre-componentes-de-reactjs/)
+- [React y D3, la mezcla perfecta para hacer visualizaciones de datos complejos](https://bbvaopen4u.com/es/actualidad/react-y-d3-la-mezcla-perfecta-para-hacer-visualizaciones-de-datos-complejos)
+- [Componentes React con createClass](http://www.desarrolloweb.com/articulos/componentes-react-createclass.html?utm_content=bufferc927e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### React Native
 
@@ -167,6 +170,7 @@
 - [ReactJS @ MuleSoft - 29 de junio de 2016](https://youtu.be/-owNNdI6XqQ)
 - [Aprende a desarrollar aplicaciones en tiempo real con Crystal y React](https://youtu.be/KAre3vRCU3U)
 - [El camino para dominar Reactjs](https://youtu.be/Kqd79dJ1gVI)
+- [Aplicaciones Isomorficas con React](https://youtu.be/57qrZWGYp-s)
 
 ### Video Cursos
 
@@ -182,6 +186,7 @@
 - [Código Facilito - Curso gratis de React](https://codigofacilito.com/courses/curso-gratis-de-react)
 - [Iván BTrujillo - React Native](https://www.youtube.com/playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe)
 - [Uno de piera - Curse de ReactJS](https://www.youtube.com/playlist?list=PLe3ZqgP6POZ7TE9Cv1gT3gZz1KEJ0yM0t)
+- [Curso de React.JS - Softcoders](https://www.youtube.com/playlist?list=PLAwIw_k7PN3qNqvYjb0O8mMwAo-kf-eXe)
 
 ## Libros
 
