@@ -19,7 +19,7 @@
 
 ### Sobre React
 
-> [Documentacion de React.js en español 📚](https://github.com/reactjs-hispano/react-es-docs)
+> [Documentacion de React.js en español](https://github.com/reactjs-hispano/react-es-docs)
 
 - [Qué es y cómo funciona ReactJS](https://platzi.com/blog/intro-react-js/)
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/)
@@ -171,6 +171,7 @@
 - [Aprende a desarrollar aplicaciones en tiempo real con Crystal y React](https://youtu.be/KAre3vRCU3U)
 - [El camino para dominar Reactjs](https://youtu.be/Kqd79dJ1gVI)
 - [Aplicaciones Isomorficas con React](https://youtu.be/57qrZWGYp-s)
+- [Redux para frontenders y no tan frontenders](https://youtu.be/SGun5d3L8gM)
 
 ### Video Cursos
 
