@@ -143,6 +143,7 @@
 - [Usando Redux en el servidor con Socket.io](https://medium.com/react-redux/wip-usando-redux-en-el-servidor-con-socket-io-61e31242e366#.y9a6ty13l)
 - [Renderizando aplicaciones de Redux en el servidor](https://medium.com/react-redux/server-render-react-redux-1f6cb0b557c9#.jubrk6xvd)
 - [Obteniendo datos en aplicaciones de Redux](https://medium.com/react-redux/obteniendo-datos-en-aplicaciones-de-redux-1007e8703521#.dhcoh22gs)
+- [Estado inmutable con Redux e Immutable.js](https://medium.com/react-redux/estado-inmutable-con-redux-e-immutable-js-5a3d69ef0451#.4d9dril5s)
 
 ## Videos
 
