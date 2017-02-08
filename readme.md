@@ -111,6 +111,7 @@
 - [Patrones de Reutilizacin de Código entre Componentes de ReactJS](http://blog.koalite.com/2016/07/patrones-de-reutilizacion-de-codigo-entre-componentes-de-reactjs/)
 - [React y D3, la mezcla perfecta para hacer visualizaciones de datos complejos](https://bbvaopen4u.com/es/actualidad/react-y-d3-la-mezcla-perfecta-para-hacer-visualizaciones-de-datos-complejos)
 - [Componentes React con createClass](http://www.desarrolloweb.com/articulos/componentes-react-createclass.html?utm_content=bufferc927e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Cómo configurar gulp.js para compilar React.js](http://josealvaradoo.com.ve/post/como-configurar-gulp.js-para-compilar-react.js.html)
 
 ### React Native
 
