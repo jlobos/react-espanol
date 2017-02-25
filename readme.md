@@ -190,6 +190,7 @@
 - [Iván BTrujillo - React Native](https://www.youtube.com/playlist?list=PLuzQ5Ac_9_cI-ukaElfIFKXyhLsADBiJe)
 - [Uno de piera - Curse de ReactJS](https://www.youtube.com/playlist?list=PLe3ZqgP6POZ7TE9Cv1gT3gZz1KEJ0yM0t)
 - [Curso de React.JS - Softcoders](https://www.youtube.com/playlist?list=PLAwIw_k7PN3qNqvYjb0O8mMwAo-kf-eXe)
+- [Mario Díez - Curso de React Native](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep)
 
 ## Libros
 
