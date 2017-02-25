@@ -194,6 +194,4 @@
 
 ## Libros
 
-| :rocket: | autor | año | enlace |
-| -------- | ----- | --- | --------- |
-| Descubre React | Javi Jimenez [@soyjavi](https://twitter.com/soyjavi) | Actualizado agosto 05, 2015 | [https://leanpub.com/descubre-react](https://leanpub.com/descubre-react) |
+- [Descubre React - Javi Jimenez](https://leanpub.com/descubre-react)
