@@ -22,6 +22,7 @@
 > [Documentacion de React.js en español](https://github.com/reactjs-hispano/react-es-docs)
 
 - [Qué es y cómo funciona ReactJS](https://platzi.com/blog/intro-react-js/)
+- [React, qué es?](https://medium.com/@bonniemilianb/react-fa9fd8ee3c29)
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/)
 - [ReactJS, lo que trae la corriente](http://codexsw.logdown.com/posts/294581-reactjs-lo-que-trae-la-corriente)
 - [¿Cómo funciona React.js?	](https://programarivm.com/2016/06/como-funciona-react-js/)
@@ -45,6 +46,7 @@
 - [React, primera entrega.](http://codexsw.logdown.com/posts/297599-react)
 - [Comenzando con React](http://abalozz.es/comenzando-con-react/)
 - [Introducción práctica a ReactJS](http://carlosvillu.com/introduccion-a-reactjs/)
+- [Primer Proyecto de React](https://medium.com/@bonniemilianb/react-first-project-922a9025bcc5)
 - [Los 3 mejores starter-kits de ReactJS](http://carlosvillu.com/los-3-mejores-starter-kits-de-reactjs/)
 - [Quiero hacer un proyecto en ReactJS. ¡¿Y ahora qué?!](http://carlosvillu.com/quiero-hacer-un-proyecto-en-reactjs-y-ahora-que/)
 - [Componentes de orden superior en ReactJS](http://carlosvillu.com/componentes-de-orden-superior-en-reactjs/)
