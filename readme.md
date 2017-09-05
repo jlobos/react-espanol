@@ -194,6 +194,8 @@
 - [Curso de React.JS - Softcoders](https://www.youtube.com/playlist?list=PLAwIw_k7PN3qNqvYjb0O8mMwAo-kf-eXe)
 - [Mario Díez - Curso de React Native](https://www.youtube.com/playlist?list=PLqB3diFeF20Tjmnl8ASD4edh7r8-Qd5ep)
 - [React: fundamentos hasta Full-stack!](https://www.udemy.com/react-fundamentos-hasta-full-stack/)
+- [Make it Real: Curso básico de React](https://www.youtube.com/playlist?list=PLxyfMWnjW2kssQROHucUJiRfW0FUhcVzN)
+- [Make it Real: Curso avanzado de React (Redux y Testing)](https://www.youtube.com/playlist?list=PLxyfMWnjW2kuyePV1Gzn5W_gr3BGIZq8G)
 
 ## Libros
 
