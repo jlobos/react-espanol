@@ -22,7 +22,7 @@
 > [Documentacion de React.js en español](https://github.com/reactjs-hispano/react-es-docs)
 
 - [Qué es y cómo funciona ReactJS](https://platzi.com/blog/intro-react-js/)
-- [React, qué es?](https://medium.com/@bonniemilianb/react-fa9fd8ee3c29)
+- [React, ¿qué es?](https://medium.com/@bonniemilianb/react-fa9fd8ee3c29)
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/)
 - [ReactJS, lo que trae la corriente](http://codexsw.logdown.com/posts/294581-reactjs-lo-que-trae-la-corriente)
 - [¿Cómo funciona React.js?	](https://programarivm.com/2016/06/como-funciona-react-js/)
