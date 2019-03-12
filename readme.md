@@ -176,6 +176,7 @@
 - [El camino para dominar Reactjs](https://youtu.be/Kqd79dJ1gVI)
 - [Aplicaciones Isomorficas con React](https://youtu.be/57qrZWGYp-s)
 - [Redux para frontenders y no tan frontenders](https://youtu.be/SGun5d3L8gM)
+- [Introducción a React Hooks](https://www.youtube.com/watch?v=_FmQ9mlSUoQ)
 
 ### Video Cursos
 
