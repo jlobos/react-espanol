@@ -2,6 +2,7 @@
 
 > Colección de recursos para aprender [ReactJS](https://facebook.github.io/react/). Si tienes algun material no olvides enviar un pull requests, o un tuit [@jlobitu](https://twitter.com/jlobitu).
 
+- [Recursos para aprender ReactJS en español](#recursos-para-aprender-reactjs-en-español)
 - [React](#react)
   - [Sobre React](#sobre-react)
   - [React Tutoriales](#react-tutoriales)
@@ -25,7 +26,7 @@
 - [React, ¿qué es?](https://medium.com/@bonniemilianb/react-fa9fd8ee3c29)
 - [Conceptos básicos de JSX y ReactJS](https://platzi.com/blog/conceptos-basicos-reactjs/)
 - [ReactJS, lo que trae la corriente](http://codexsw.logdown.com/posts/294581-reactjs-lo-que-trae-la-corriente)
-- [¿Cómo funciona React.js?	](https://programarivm.com/2016/06/como-funciona-react-js/)
+- [¿Cómo funciona React.js? ](https://programarivm.com/2016/06/como-funciona-react-js/)
 - [Lo nuevo en React v0.14](https://platzi.com/blog/react-v014/)
 - [ReactJS: un enfoque diferente](http://blog.koalite.com/2014/09/reactjs-un-enfoque-diferente/)
 - [Retrospectiva de un proyecto con ReactJS](http://blog.koalite.com/2015/01/retrospectiva-de-un-proyecto-con-reactjs/)
@@ -197,6 +198,8 @@
 - [React: fundamentos hasta Full-stack!](https://www.udemy.com/react-fundamentos-hasta-full-stack/)
 - [Make it Real: Curso básico de React](https://www.youtube.com/playlist?list=PLxyfMWnjW2kssQROHucUJiRfW0FUhcVzN)
 - [Make it Real: Curso avanzado de React (Redux y Testing)](https://www.youtube.com/playlist?list=PLxyfMWnjW2kuyePV1Gzn5W_gr3BGIZq8G)
+- [Leonidas Esteban - Curso de JavaScript para React (React y Javascript)](https://leonidasesteban.com/cursos/javascript-react)
+- [@midudev - Aprendiendo React desde cero. Curso Gratuito (React)](https://www.youtube.com/watch?v=T_j60n1zgu0&list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC&ab_channel=midudev)
 
 ## Libros
 
